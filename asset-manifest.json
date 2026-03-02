@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Global-Digital-Bank-FullStack/static/css/main.06088d33.css",
+    "main.js": "/Global-Digital-Bank-FullStack/static/js/main.7efb1882.js",
+    "index.html": "/Global-Digital-Bank-FullStack/index.html",
+    "main.06088d33.css.map": "/Global-Digital-Bank-FullStack/static/css/main.06088d33.css.map",
+    "main.7efb1882.js.map": "/Global-Digital-Bank-FullStack/static/js/main.7efb1882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06088d33.css",
+    "static/js/main.7efb1882.js"
+  ]
+}
